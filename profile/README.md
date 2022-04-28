@@ -1,4 +1,15 @@
-## Hi there 👋
+# TelegramUpdater
+
+Telegram Updater is a framework for building Telegram bots in C# and .NET 6 and above.
+
+- Main package repository is [Here](https://github.com/TelegramUpdater/TelegramUpdater).
+- [Hosting extension](https://github.com/TelegramUpdater/TelegramUpdater.Hosting) for better integration with hosting apps like Webhooks in ASP .NET.
+- A simple extension package to easily create [Menus](https://github.com/TelegramUpdater/TelegramUpdater.Menu).
+- [FillMyForm](https://github.com/TelegramUpdater/TelegramUpdater.FillMyForm) extension package that helps you fill a form.
+- [Examples](https://github.com/TelegramUpdater/TelegramUpdater.Examples): a repo full of examples made with TelegramUpdater.
+
+_All packages are in **Preview** state_
+
 
 <!--
 
