@@ -1,6 +1,6 @@
 # TelegramUpdater
 
-Telegram Updater is a framework for building Telegram bots in C# and .NET 6 and above.
+Telegram Updater is a framework for building Telegram bots in pure C#.
 
 - Main package repository is [Here](https://github.com/TelegramUpdater/TelegramUpdater).
 - [Hosting extension](https://github.com/TelegramUpdater/TelegramUpdater.Hosting) for better integration with hosting apps like Webhooks in ASP .NET.
