@@ -8,7 +8,7 @@ Telegram Updater is a framework for building Telegram bots in pure C#.
 - [FillMyForm](https://github.com/TelegramUpdater/TelegramUpdater.FillMyForm) extension package that helps you fill a form.
 - [Examples](https://github.com/TelegramUpdater/TelegramUpdater.Examples): a repo full of examples made with TelegramUpdater.
 
-_All packages are in **Preview** state_
+_All packages are in **Preview** state_ | [Profile image](https://pin.it/6GAtvHHzE)
 
 
 <!--
